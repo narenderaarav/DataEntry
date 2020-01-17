@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -28,6 +26,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -36,3 +35,28 @@
     transform: rotate(360deg);
   }
 }
+
+
+header{
+  width: 100%;
+  box-shadow: 2px 2px 16px #ddd;
+  background: rgb(245, 245, 245);
+}
+
+.middlePart{
+  width: 100%;
+  margin-top: 60px;
+}
+
+.outPut{
+  margin-top: 200px;
+}
+
+.tdSubmit{
+  display: flex;
+  justify-content:space-between
+}
+
+
+
+
