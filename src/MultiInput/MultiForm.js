@@ -27,7 +27,6 @@ class MultiForm extends Component{
     this.setState({
       inputAdd: this.state
                     .inputAdd.concat([{ 
-                     
                       camera : '',
                       name : '',
                       email: '',
